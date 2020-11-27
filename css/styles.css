@@ -1,0 +1,13 @@
+
+
+.camera{
+	height: 100px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: black;
+	margin-bottom: 0.5px;
+	width: 100%;
+	
+}
